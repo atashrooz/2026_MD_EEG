@@ -218,6 +218,7 @@ Local paths to EEG data, EEGLAB, and FieldTrip may need to be changed before run
 The de-identified raw EEG data associated with this study are available on the Open Science Framework (OSF):
 
 **OSF repository:** [ https://osf.io/gueqd ]
+
 This GitHub repository contains the analysis code and derived datasets used for the spectral, connectivity, and statistical analyses reported in the manuscript.
 
 The larger raw EEG files are hosted separately on OSF.
@@ -253,12 +254,8 @@ Publication details and DOI will be added following publication.
 
 ## Contact
 
-For questions regarding the study or repository:
+For questions regarding the repository:
 
-**Amir Sam Kianimoghadam**  
-Department of Clinical Psychology  
-School of Medicine  
-Shahid Beheshti University of Medical Sciences  
-Tehran, Iran
+**Mohammad Atashrooz**  
 
-Email: as.kianimoghadam@gmail.com
+Email: satashrooz78@gmail.com
